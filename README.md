@@ -193,7 +193,6 @@ Your credentials can be stolen if pushed to a public repository. Always keep the
 
 
 
-<h3 align="center">
-  Developed with ❤️ by <a href="https://t.me/team_spy_pro"> Gagan </a>
+
 </h3>
 
